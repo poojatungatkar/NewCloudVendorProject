@@ -8,6 +8,7 @@ public class CloudVenderProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CloudVenderProjectApplication.class, args);
+		System.out.println("this project has done unit testing cicd and docker file");
 	}
 
 }
