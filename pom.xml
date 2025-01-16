@@ -118,6 +118,7 @@
 	            </executions>
         	</plugin>
     </plugins>
+		<finalName>CloudVendorIntegration</finalName>
 </build>
 
 </project>
